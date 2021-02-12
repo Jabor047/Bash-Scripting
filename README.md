@@ -2,7 +2,7 @@
 This repo contains code written for the exercises in Machtelt Garrels' BASH Guide for Beginners
 
 The chapters covered in the book are:
-- chapter 1: Bash and Bash Scripts
+- Chapter 1: Bash and Bash Scripts
 - Chapter 2: Writing and debugging scripts
 - Chapter 3: The Bash environment
 - Chapter 4: Regular expressions
